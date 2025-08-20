@@ -4,7 +4,7 @@ Este projeto foi desenvolvido para a disciplina de **Estruturas de Dados** e sim
 
 A comunicação entre os dois programas é feita de forma assíncrona através de arquivos binários, permitindo que eles operem de forma independente.
 
-## ✨ Características
+## 💡 Características
 
 * **Dois Programas Independentes:** Uma interface de menu para o usuário (`menu`) e um processo de fundo para a simulação (`simulacao`).
 * **Fila com Prioridade:** Utiliza uma Árvore Binária de Busca (BST) onde cada nó contém uma fila, permitindo gerenciar múltiplos níveis de prioridade de forma eficiente. Pacientes com maior prioridade (menor número) são sempre atendidos primeiro.
