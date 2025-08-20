@@ -89,11 +89,3 @@ Agora você pode usar as opções do menu no **Terminal 2** para criar fichas, i
 * `relatorio.dat`: Armazena os dados do relatório de especialidades.
 * `inbox.dat`: Arquivo temporário que funciona como "caixa de entrada" para novas fichas.
 * `config.dat`: Arquivo de controle que armazena o estado atual da simulação.
-
-## 👨‍💻 Autor
-
-(Seu Nome Aqui)
-
-## 📄 Licença
-
-Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
