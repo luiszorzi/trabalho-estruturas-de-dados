@@ -1,6 +1,6 @@
 # Sistema de Simulação de Fila de Atendimento Hospitalar
 
-Este projeto, desenvolvido em linguagem C, simula um sistema de gerenciamento de filas de atendimento para um ambiente hospitalar ou clínico. O sistema utiliza duas aplicações que rodam em paralelo: um **menu de interação** para o usuário e um **simulador de atendimento** que processa as fichas em tempo real.
+Este projeto foi desenvolvido para a disciplina de **Estruturas de Dados** e simula, em linguagem C, um sistema de gerenciamento de filas de atendimento para um ambiente hospitalar ou clínico. O sistema utiliza duas aplicações que rodam em paralelo: um **menu de interação** para o usuário e um **simulador de atendimento** que processa as fichas em tempo real.
 
 A comunicação entre os dois programas é feita de forma assíncrona através de arquivos binários, permitindo que eles operem de forma independente.
 
